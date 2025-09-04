@@ -28,11 +28,8 @@ Exploration of the Brazilian **Olist** e-commerce dataset using **SQL** (cleanin
 * **Product performance table**: Revenue, YoY, Avg Review (**parameter** controls number of products shown)
 * **Revenue by location** (map)
 
-> Add screenshots to your repo and reference them here:
+![Sales & Performance Dashboard](images/Olist..sales-performance.jpg)
 
-* `dashboards/images/sales_overview.png`
-* `dashboards/images/product_table.png`
-* `dashboards/images/revenue_map.png`
 
 ### 2) Customer Insights Dashboard
 
@@ -43,12 +40,9 @@ Exploration of the Brazilian **Olist** e-commerce dataset using **SQL** (cleanin
 * **Payment method distribution**
 * **Customer segmentation**
 * **Lead source × business type** metrics table
+ 
+![Customers Insight Dashboard](images/olist-customerInsight.jpg)
 
-> Suggested screenshots:
-
-* `dashboards/images/reviews_trend.png`
-* `dashboards/images/delivery_vs_review.png`
-* `dashboards/images/leadsource_businesstype.png`
 
 ---
 
