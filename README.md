@@ -72,7 +72,6 @@ olist-sql-powerbi-analysis/
 ## 📈 Key Insights  
 
 * **Total revenue showed a clear upward trend**, reflecting steady business growth.  
-* **YoY movements** revealed seasonality in sales and shifts in top-performing product categories.  
 * **Paid Search and Organic Search** were the dominant channels for customer acquisition.  
 * **Returning customers were very few** compared to new customers, suggesting strong acquisition but weak retention. Addressing this gap could unlock significant revenue potential.  
 * **Delivery delays** were the main driver of poor reviews, directly affecting customer satisfaction.  
