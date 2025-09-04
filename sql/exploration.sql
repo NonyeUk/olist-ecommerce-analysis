@@ -21,7 +21,7 @@ SELECT DISTINCT product_category_name FROM products;
 
 
 -- ======================================================
--- 2. Dataset Coverage (Time Period)
+-- 2. Dataset Coverage  (Time Period)
 -- ======================================================
 SELECT 
     MIN(order_purchase_timestamp) AS first_order, 
